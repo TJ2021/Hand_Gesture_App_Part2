@@ -97,7 +97,7 @@ for gesture in testData:
     #result.append({next(iter(gesture.keys())):gestures[match]})
     result.append(gestures[match])
 
-with open('Result.csv', 'w') as f:
+with open('Results.csv', 'w') as f:
     for line in result:
         f.write(str(line))
         f.write('\n')
