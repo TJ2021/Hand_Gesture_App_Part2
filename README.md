@@ -26,7 +26,7 @@ This project not only provides hands-on experience in mobile application develop
 ### Project Demo [[Link]](https://photos.google.com/share/AF1QipOUuFWghOBT0P-lSrU0wFz2Wu2CiTVqapMi6fYSySq2Egw2cq1Z0J7UPSEFQ6KZUw?key=OVRjT0pjUEYwR0lLRFZzdjRRQ0xaamVyT2JaWlRB) <br>
 Screenshot of the application.<br>
 
-<img width="1388" alt="SmartHomeGestureApp" src="https://github.com/user-attachments/assets/2492509c-fa5b-4bee-8509-fa3f640cabe5">
+<img width="1388" alt="SmartHomeGestureApp" src="https://github.com/user-attachments/assets/2492509c-fa5b-4bee-8509-fa3f640cabe5"><br><br>
 
 
 ## Lessons Learned
