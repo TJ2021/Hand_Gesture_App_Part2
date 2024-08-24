@@ -6,7 +6,8 @@ The SmartHome Gesture Control Application project focuses on creating more acces
 The first part of the project involves developing a mobile application using Android Studio that enables users to control SmartHome devices through specific gestures. The application includes features such as:
 - A gesture selection interface where users can choose from 17 different gestures (e.g., turning on/off lights, adjusting fan speed, setting thermostat temperatures).
 - A practice mode where users can view expert demonstrations of gestures and then record their own attempts using the smartphone's camera.
-- The ability to upload recorded gesture videos to a server for further processing.
+- The ability to upload recorded gesture videos to a server for further processing.<br><br>
+Link to source code of Part1 [[Click here]](https://github.com/TJ2021/Hand_Gesture_App) <br><br>
 
 #### Part 2: Gesture Classification Service<br>
 
@@ -15,8 +16,6 @@ In the second part of the project, a Python-based application is developed to cl
 - Training and testing a Convolutional Neural Network (CNN) model to improve the accuracy of gesture classification.
 
 This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br><br>
-Link to the source code of Prt 2. [[Click Here]] (https://github.com/TJ2021/Hand_Gesture_App_Part2)<br><br>
-
 
 ### Built With:
 - Kotlin
